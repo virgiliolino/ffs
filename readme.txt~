@@ -1,0 +1,14 @@
+Instructions  - Ffs 0.1 - Yet Another Comments System
+
+1. create database
+2. import the file dbimport.sql 
+3. configurate db settings in src/Ffs/Ffs/MyApp/application.conf
+4. point the browser to /Public/index.php
+
+Please take a look at /Public/index.php comment for the list of todos in order of importance.
+
+The code have been tested just with Linux/Chrome and Linux/Firefox. 
+Many thanks,
+Virgilio Lino  virgiliolino@gmail.com
+
+

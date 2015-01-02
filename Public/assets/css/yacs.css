@@ -1,0 +1,4 @@
+.hidden { display:none;}
+.errors { color:red;font-weight:bold; position:absolute;margin-left:10px;}
+.success { color:blue;font-weight:bold; position:absolute;margin-left:10px;}
+.block { border: 1px solid black; margin:5px; padding:5px;}
